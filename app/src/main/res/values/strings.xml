@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">WarehouseV0</string>
+    <string name="login_hint">Логин</string>
+    <string name="password_hint">Пароль</string>
+    <string name="login_button">Войти</string>
+</resources>
